@@ -1,0 +1,12 @@
+{
+  "port":           8080,
+  "merchantId":     "2491",
+  "apiKeyId":       "005c71f9f9683127",
+  "secretApiKey":   "dJ6lkiZ48VzcYYTS9hq7yYHe/75czb0/LwfyATz1SMw=",
+  "apiEndpoint": {
+    "host":         "https://api-sandbox.globalcollect.com",
+    "scheme":       "https",
+    "port":         443
+  },
+  "enableLogging":  true
+}
